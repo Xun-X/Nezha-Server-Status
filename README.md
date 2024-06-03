@@ -27,14 +27,16 @@ Windows上显示一个半透明的飘浮窗，实时监看服务器状态(哪吒
 ##### 大窗模式：
 ![](https://raw.githubusercontent.com/Xun-X/Nezha-Server-Status/main/explorer_J7TgtuGPwc.png)
 
+# 下载地址：
+蓝奏云下载：[https://www.lanzouw.com/iY4VD20qxd6b](https://www.lanzouw.com/iY4VD20qxd6b "蓝奏云下载")
+
+
 ##### 关于如何安装哪吒探针面板：
 1、[https://nezha.wiki](https://nezha.wiki/ "哪吒面板") 官网 更具使用文档进行安装
 
 2、自行google、baidu或Youtube跟随教程安装
 
 
-##### 下载地址：
-蓝奏云下载：[https://www.lanzouw.com/iY4VD20qxd6b](https://www.lanzouw.com/iY4VD20qxd6b "蓝奏云下载")
 
 ```
 
