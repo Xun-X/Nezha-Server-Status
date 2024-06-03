@@ -29,12 +29,14 @@ Windows上显示一个半透明的飘浮窗，实时监看服务器状态(哪吒
 
 ##### 关于如何安装哪吒探针面板：
 1、[https://nezha.wiki](https://nezha.wiki/ "哪吒面板") 官网 更具使用文档进行安装
+
 2、自行google、baidu或Youtube跟随教程安装
 
 
-```
-#### 下载地址：
+##### 下载地址：
 蓝奏云下载：[https://www.lanzouw.com/iY4VD20qxd6b](https://www.lanzouw.com/iY4VD20qxd6b "蓝奏云下载")
+
+```
 
 这是发布版本，就不公开源码了(小白也看不懂)冷门语言编写的。再加上做得很粗糙，就不放出来显摆(丟人現眼)了
 
