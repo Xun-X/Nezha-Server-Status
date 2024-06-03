@@ -5,7 +5,7 @@ Windows上显示一个半透明的飘浮窗，实时监看服务器状态(哪吒
 ![](https://raw.githubusercontent.com/Xun-X/Nezha-Server-Status/main/explorer_dwkn1Ey6Ql.png)
 
 ##### 程序说明：
-本程序是通过 API Token 获取[哪吒探针]服务端WEB数据用于飘浮窗显示服务器状态，所以服务器需要安装[哪吒探针]
+本程序是通过[哪吒探针] API Token 获取服务端WEB数据用于飘浮窗显示服务器状态，所以服务器需要安装[哪吒探针]
 
 主程序首次启动会在运行目录下创建一个抓取服务器数据的程序并运行，抓取到数据会发送到主程序的[49433]端口
 
