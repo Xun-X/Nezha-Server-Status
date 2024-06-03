@@ -33,7 +33,7 @@ Windows上显示一个半透明的飘浮窗，实时监看服务器状态(哪吒
 
 
 ##### 关于如何安装哪吒探针面板：
-1、[https://nezha.wiki](https://nezha.wiki/ "哪吒面板") 官网 更具使用文档进行安装
+1、[https://nezha.wiki](https://nezha.wiki/ "哪吒面板") 官网 根据使用文档进行安装
 
 2、自行google、baidu或Youtube跟随教程安装
 
