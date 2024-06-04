@@ -28,11 +28,11 @@ Windows上显示一个半透明的飘浮窗，实时监看服务器状态(哪吒
 ##### 大窗模式：
 ![](https://raw.githubusercontent.com/Xun-X/Nezha-Server-Status/main/explorer_kLOVaAA2EO.png)
 
-##### 详细模式：
-![](https://raw.githubusercontent.com/Xun-X/Nezha-Server-Status/main/explorer_OPXNQvw8lM.png)
-
-##### 详细模式（单个显示）：
+##### 主题3模式（单个显示）：
 ![](https://raw.githubusercontent.com/Xun-X/Nezha-Server-Status/main/explorer_Ctwcz7HT4B.png)
+
+##### 主题3模式：
+![](https://raw.githubusercontent.com/Xun-X/Nezha-Server-Status/main/explorer_OPXNQvw8lM.png)
 
 # 下载地址：
 蓝奏云下载：[https://www.lanzouw.com/iEu3Q20valhc](https://www.lanzouw.com/iEu3Q20valhc "蓝奏云下载")
