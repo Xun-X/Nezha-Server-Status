@@ -35,10 +35,10 @@ Windows上显示一个半透明的飘浮窗，实时监看服务器状态(哪吒
 ![](https://raw.githubusercontent.com/Xun-X/Nezha-Server-Status/main/explorer_OPXNQvw8lM.png)
 
 # 下载地址：
-蓝奏云下载：[https://www.lanzouw.com/iEu3Q20valhc](https://www.lanzouw.com/iEu3Q20valhc "蓝奏云下载")
+蓝奏云下载：[https://www.lanzouw.com/imhUH20vb3wf](https://www.lanzouw.com/imhUH20vb3wf "蓝奏云下载")
 
 ##### 更新说明：
-更新版本：V1.3，1、加入服务器国旗显示；2、新增皮肤样式
+更新版本：V1.3，1、加入服务器国旗显示；2、新增皮肤样式；3、加入托盘图标
 
 
 ##### 关于如何安装哪吒探针面板：
