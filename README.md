@@ -2,7 +2,7 @@
 Windows上显示一个半透明的飘浮窗，实时监看服务器状态(哪吒探针)
 
 ##### 效果展示：
-![](https://raw.githubusercontent.com/Xun-X/Nezha-Server-Status/main/explorer_dwkn1Ey6Ql.png)
+![](https://raw.githubusercontent.com/Xun-X/Nezha-Server-Status/main/explorer_I6TrVHCDOF.png)
 
 ##### 程序说明：
 本程序是通过[哪吒探针] API Token 获取服务端WEB数据用于飘浮窗显示服务器状态，所以服务器需要安装[哪吒探针]
@@ -15,7 +15,7 @@ Windows上显示一个半透明的飘浮窗，实时监看服务器状态(哪吒
 例：[哪吒探针]访问地址是：```http://nezha.hostname.com:18881```
 
 如图：
-![](https://raw.githubusercontent.com/Xun-X/Nezha-Server-Status/main/explorer_rbdz8QJfx2.png)
+![](https://raw.githubusercontent.com/Xun-X/Nezha-Server-Status/main/explorer_WrUY9L2w3F.png)
 
 ##### 参考如下设置即可：
 ![](https://raw.githubusercontent.com/Xun-X/Nezha-Server-Status/main/explorer_WrUY9L2w3D.png)
@@ -23,13 +23,22 @@ Windows上显示一个半透明的飘浮窗，实时监看服务器状态(哪吒
 特别说明：[设备名称配置]填入的名称与WEB上对应的[节点名]相同即可
 
 ##### 小窗模式：
-![](https://raw.githubusercontent.com/Xun-X/Nezha-Server-Status/main/explorer_dwkn1Ey6Ql.png)
+![](https://raw.githubusercontent.com/Xun-X/Nezha-Server-Status/main/explorer_I6TrVHCDOF.png)
 
 ##### 大窗模式：
-![](https://raw.githubusercontent.com/Xun-X/Nezha-Server-Status/main/explorer_J7TgtuGPwc.png)
+![](https://raw.githubusercontent.com/Xun-X/Nezha-Server-Status/main/explorer_kLOVaAA2EO.png)
+
+##### 详细模式：
+![](https://raw.githubusercontent.com/Xun-X/Nezha-Server-Status/main/explorer_OPXNQvw8lM.png)
+
+##### 详细模式（单个显示）：
+![](https://raw.githubusercontent.com/Xun-X/Nezha-Server-Status/main/explorer_Ctwcz7HT4B.png)
 
 # 下载地址：
-蓝奏云下载：[https://www.lanzouw.com/iY4VD20qxd6b](https://www.lanzouw.com/iY4VD20qxd6b "蓝奏云下载")
+蓝奏云下载：[https://www.lanzouw.com/iEu3Q20valhc](https://www.lanzouw.com/iEu3Q20valhc "蓝奏云下载")
+
+##### 更新说明：
+更新版本：V1.3，1、加入服务器国旗显示；2、新增皮肤样式
 
 
 ##### 关于如何安装哪吒探针面板：
