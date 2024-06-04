@@ -20,7 +20,11 @@ Windows上显示一个半透明的飘浮窗，实时监看服务器状态(哪吒
 ##### 参考如下设置即可：
 ![](https://raw.githubusercontent.com/Xun-X/Nezha-Server-Status/main/explorer_WrUY9L2w3F.png)
 
-特别说明：[设备名称配置]填入的名称与WEB上对应的[节点名]相同即可
+特别说明：
+```
+1、 [设备名称配置]填入的名称与WEB上对应的[服务器名称]相同即可 
+2、 服务器WEB建议用不套cdn的，以免抓取数据不稳定
+```
 
 ##### 小窗模式：
 ![](https://raw.githubusercontent.com/Xun-X/Nezha-Server-Status/main/explorer_I6TrVHCDOF.png)
