@@ -6,7 +6,7 @@
 [![Xun-X](https://img.shields.io/static/v1?label=获取方式&message=网盘下载&color=F48041)](https://github.com/Xun-X/Nezha-Server-Status)
 
 Windows上显示一个半透明的飘浮窗，实时监看服务器状态（哪吒监控;哪吒探针）
-ww
+
 关键词：`哪吒探针 Windows 监控端` `哪吒探针 Windows 版` `哪吒面板 Windows 版` `哪吒监控 Windows 版`
 
 
