@@ -32,16 +32,21 @@ Windows上显示一个半透明的飘浮窗，实时监看服务器状态(哪吒
 ##### 大窗模式：
 ![](https://raw.githubusercontent.com/Xun-X/Nezha-Server-Status/main/explorer_kLOVaAA2EO.png)
 
-##### 主题3模式（单个显示）：
-![](https://raw.githubusercontent.com/Xun-X/Nezha-Server-Status/main/explorer_Ctwcz7HT4B.png)
+##### 主题3-详细模式（单个显示）：
+![](https://raw.githubusercontent.com/Xun-X/Nezha-Server-Status/main/explorer_MDYFBW4VCv.png)
 
-##### 主题3模式：
-![](https://raw.githubusercontent.com/Xun-X/Nezha-Server-Status/main/explorer_OPXNQvw8lM.png)
+##### 主题3-详细模式：
+![](https://raw.githubusercontent.com/Xun-X/Nezha-Server-Status/main/explorer_3OntghQXWy.png)
 
 # 下载地址：
-蓝奏云下载：[https://www.lanzouw.com/iMwi220vd6sb](https://www.lanzouw.com/iMwi220vd6sb "蓝奏云下载")
+蓝奏云下载：[https://www.lanzouw.com/ioliK20zfo2j](https://www.lanzouw.com/ioliK20zfo2j "蓝奏云下载")
 
 ##### 更新说明：
+更新版本(v1.4-正式稳定版)：
+```
+1、主题3加入CPU、内存、硬盘使用率显示;
+```
+
 更新版本(v1.3)：
 ```
 1、新增窗口鼠标穿透功能,即使遮挡住其他程序的窗口也不会影响操作;
