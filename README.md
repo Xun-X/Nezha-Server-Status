@@ -1,5 +1,12 @@
 # Nezha-ServerStatus
-Windows上显示一个半透明的飘浮窗，实时监看服务器状态(哪吒探针)
+[![Xun-X](https://img.shields.io/static/v1?label=作者&message=Xun-X&color=F36CB0)](https://github.com/Xun-X/Nezha-Server-Status)
+[![Xun-X](https://img.shields.io/static/v1?label=特别感谢&message=哪吒监控&color=97C40F)](https://nezha.wiki/)
+[![Xun-X](https://img.shields.io/static/v1?label=软件特点&message=便携、简易&color=48C21A)](https://github.com/Xun-X/Nezha-Server-Status)
+[![Xun-X](https://img.shields.io/static/v1?label=软件性质&message=免费、非开源&color=1081C2)](https://github.com/Xun-X/Nezha-Server-Status)
+[![Xun-X](https://img.shields.io/static/v1?label=获取方式&message=网盘下载&color=F48041)](https://github.com/Xun-X/Nezha-Server-Status)
+关键词：`哪吒探针 Windows 版` `哪吒面板 Windows 版` `哪吒监控 Windows 版`
+Windows上显示一个半透明的飘浮窗，实时监看服务器状态（哪吒探针）
+
 
 ##### 效果展示：
 ![](https://raw.githubusercontent.com/Xun-X/Nezha-Server-Status/main/explorer_I6TrVHCDOF.png)
