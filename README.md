@@ -7,7 +7,7 @@
 
 Windows上显示一个半透明的飘浮窗，实时监看服务器状态（哪吒探针）
 
-关键词：`哪吒探针 Windows 版` `哪吒面板 Windows 版` `哪吒监控 Windows 版`
+关键词：`哪吒探针 Windows 监控端` `哪吒探针 Windows 版` `哪吒面板 Windows 版` `哪吒监控 Windows 版`
 
 
 ##### 效果展示：
