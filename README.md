@@ -2,6 +2,8 @@
 Windows上显示一个半透明的飘浮窗，实时监看服务器状态(哪吒探针)
 
 ##### 效果展示：
+![](https://raw.githubusercontent.com/Xun-X/Nezha-Server-Status/main/explorer_3OntghQXWy.png)
+
 ![](https://raw.githubusercontent.com/Xun-X/Nezha-Server-Status/main/explorer_I6TrVHCDOF.png)
 
 ##### 程序说明：
