@@ -2,9 +2,9 @@
 Windows上显示一个半透明的飘浮窗，实时监看服务器状态(哪吒探针)
 
 ##### 效果展示：
-![](https://raw.githubusercontent.com/Xun-X/Nezha-Server-Status/main/explorer_3OntghQXWy.png)
-
 ![](https://raw.githubusercontent.com/Xun-X/Nezha-Server-Status/main/explorer_I6TrVHCDOF.png)
+
+![](https://raw.githubusercontent.com/Xun-X/Nezha-Server-Status/main/explorer_3OntghQXWy.png)
 
 ##### 程序说明：
 本程序是通过[哪吒探针] API Token 获取服务端WEB数据用于飘浮窗显示服务器状态，所以服务器需要安装[哪吒探针]
