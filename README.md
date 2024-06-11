@@ -50,7 +50,7 @@ Windows上显示一个半透明的飘浮窗，实时监看服务器状态（哪�
 ![](https://raw.githubusercontent.com/Xun-X/Nezha-Server-Status/main/explorer_3OntghQXWy.png)
 
 # 下载地址：
-蓝奏云下载：[https://www.lanzouw.com/ic8qv21jv4tc](https://www.lanzouw.com/ic8qv21jv4tc "蓝奏云下载")
+蓝奏云下载：[https://www.lanzouw.com/iwEQx21jw0oj](https://www.lanzouw.com/iwEQx21jw0oj "蓝奏云下载")
 
 ##### 更新说明：
 更新版本(v1.5)：
