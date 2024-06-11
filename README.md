@@ -50,13 +50,19 @@ Windows上显示一个半透明的飘浮窗，实时监看服务器状态（哪�
 ![](https://raw.githubusercontent.com/Xun-X/Nezha-Server-Status/main/explorer_3OntghQXWy.png)
 
 # 下载地址：
-蓝奏云下载：[https://www.lanzouw.com/iXRR420zoq8b](https://www.lanzouw.com/iXRR420zoq8b "蓝奏云下载")
+蓝奏云下载：[https://www.lanzouw.com/imtzN21jhw4b](https://www.lanzouw.com/imtzN21jhw4b "蓝奏云下载")
 
 ##### 更新说明：
+更新版本(v1.5)：
+```
+1、支持取消窗口置顶功能
+2、新增设备名设置别名
+3、重制国旗图标
+```
+
 更新版本(v1.4-正式稳定版)：
 ```
-1、主题3加入CPU、内存、硬盘使用率显示;
-```
+1、主题3加入C
 
 更新版本(v1.3)：
 ```
