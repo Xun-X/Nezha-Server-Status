@@ -9,6 +9,8 @@ Windows上显示一个半透明的飘浮窗，实时监看服务器状态（哪�
 
 关键词：`哪吒探针 Windows 监控端` `哪吒探针 Windows 版` `哪吒面板 Windows 版` `哪吒监控 Windows 版`
 
+##### 让我们一起共建庞大的监控室大爷团队，时刻掌握小鸡状态！
+
 
 ##### 效果展示：
 ![](https://raw.githubusercontent.com/Xun-X/Nezha-Server-Status/main/explorer_I6TrVHCDOF.png)
