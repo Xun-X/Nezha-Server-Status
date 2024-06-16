@@ -13,7 +13,7 @@ Windows上显示一个半透明的飘浮窗，实时监看服务器状态（哪�
 ##### 效果展示：
 ![](https://raw.githubusercontent.com/Xun-X/Nezha-Server-Status/main/explorer_I6TrVHCDOF.png)
 
-![](https://raw.githubusercontent.com/Xun-X/Nezha-Server-Status/main/explorer_3OntghQXWy.png)
+![](https://raw.githubusercontent.com/Xun-X/Nezha-Server-Status/main/explorer_XqqMOxKqhE.png)
 
 ##### 程序说明：
 本程序是通过[哪吒探针] API Token 获取服务端WEB数据用于飘浮窗显示服务器状态，所以服务器需要安装[哪吒探针]
@@ -44,10 +44,10 @@ Windows上显示一个半透明的飘浮窗，实时监看服务器状态（哪�
 ![](https://raw.githubusercontent.com/Xun-X/Nezha-Server-Status/main/explorer_kLOVaAA2EO.png)
 
 ##### 主题3-详细模式（单个显示）：
-![](https://raw.githubusercontent.com/Xun-X/Nezha-Server-Status/main/explorer_MDYFBW4VCv.png)
+![](https://raw.githubusercontent.com/Xun-X/Nezha-Server-Status/main/explorer_DVC3i7V7ce.png)
 
 ##### 主题3-详细模式：
-![](https://raw.githubusercontent.com/Xun-X/Nezha-Server-Status/main/explorer_3OntghQXWy.png)
+![](https://raw.githubusercontent.com/Xun-X/Nezha-Server-Status/main/explorer_XqqMOxKqhE.png)
 
 # 下载地址：
 蓝奏云下载：[https://www.lanzouw.com/iwEQx21jw0oj](https://www.lanzouw.com/iwEQx21jw0oj "蓝奏云下载")
