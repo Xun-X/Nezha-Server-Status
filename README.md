@@ -52,9 +52,16 @@ Windows上显示一个半透明的飘浮窗，实时监看服务器状态（哪�
 ![](https://raw.githubusercontent.com/Xun-X/Nezha-Server-Status/main/explorer_XqqMOxKqhE.png)
 
 # 下载地址：
-蓝奏云下载：[https://www.lanzouw.com/iwEQx21jw0oj](https://www.lanzouw.com/iwEQx21jw0oj "蓝奏云下载")
+蓝奏云下载：[https://www.lanzouw.com/ikKnt22j72ha](https://www.lanzouw.com/ikKnt22j72ha "蓝奏云下载")
 
 ##### 更新说明：
+更新版本(v1.6-正式版)：
+```
+1、由于 哪吒监控服务端 0.17.0 版本更新后加入了GPU以及传感器温度等信息，每次请求获取服务器运行状态会取到非常
+　　大量的无用数据，本次更新修复无法正确显示服务器状态。
+2、修复上一版本开发过程中写出调试的代码漏删，会向目录[L:\debug.log]写出调试信息到的问题(无关痛痒的问题)
+```
+
 更新版本(v1.5-正式版)：
 ```
 1、支持取消窗口置顶功能
