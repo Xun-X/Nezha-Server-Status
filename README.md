@@ -4,6 +4,7 @@
 [![Xun-X](https://img.shields.io/static/v1?label=软件特点&message=便携、简易&color=48C21A)](https://github.com/Xun-X/Nezha-Server-Status)
 [![Xun-X](https://img.shields.io/static/v1?label=软件性质&message=免费、非开源&color=1081C2)](https://github.com/Xun-X/Nezha-Server-Status)
 [![Xun-X](https://img.shields.io/static/v1?label=获取方式&message=网盘下载&color=F48041)](https://github.com/Xun-X/Nezha-Server-Status)
+[![Xun-X](https://img.shields.io/static/v1?label=兼容版本&message=哪吒V0&color=F48041)](https://github.com/Xun-X/Nezha-v0/blob/main/README.md)
 
 Windows上显示一个半透明的飘浮窗，实时监看服务器状态（哪吒监控;哪吒探针）
 
@@ -92,7 +93,10 @@ Windows上显示一个半透明的飘浮窗，实时监看服务器状态（哪�
 ```
 
 # 安装哪吒探针V0版本：
-1、[Nezha-v0](https://github.com/Xun-X/Nezha-v0/blob/main/README.md "一键安装哪吒V0") 
+1、一键安装命令：
+```shell
+curl -L https://raw.githubusercontent.com/Xun-X/nezha-v0/refs/heads/main/install.sh -o nezha-v0.sh && chmod +x nezha-v0.sh && sudo ./nezha-v0.sh
+```
 
 2、自行google、baidu或Youtube跟随教程安装
 ```
