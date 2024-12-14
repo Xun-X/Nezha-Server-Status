@@ -12,7 +12,7 @@ Windows上显示一个半透明的飘浮窗，实时监看服务器状态（哪�
 
 ##### 让我们一起共建庞大的监控室大爷团队，时刻掌握小鸡状态！
 
-##### 注意：本项目不跟随哪吒更新，仅兼容V0.X版本哪吒，安装V0版本的哪吒探针或面板在底部有【一键脚本】
+##### 注意：本项目不跟随哪吒更新，仅兼容V0.X版本哪吒，安装V0版本的哪吒探针或面板在底部有[【一键脚本】](https://github.com/Xun-X/Nezha-Server-Status?tab=readme-ov-file#%E5%AE%89%E8%A3%85%E5%93%AA%E5%90%92%E6%8E%A2%E9%92%88v0%E7%89%88%E6%9C%AC "一键安装哪吒V0.16.XX")
 
 ##### 效果展示：
 ![](https://raw.githubusercontent.com/Xun-X/Nezha-Server-Status/main/explorer_I6TrVHCDOF.png)
@@ -57,7 +57,7 @@ Windows上显示一个半透明的飘浮窗，实时监看服务器状态（哪�
 蓝奏云下载：[https://www.lanzouw.com/ikKnt22j72ha](https://www.lanzouw.com/ikKnt22j72ha "蓝奏云下载")
 
 # 特别说明
-本项目不跟随哪吒探针继续升级，为哪吒V0养老版本，关于如何安装哪吒V0，[点击查看一键安装脚本](https://github.com/Xun-X/Nezha-v0/blob/main/README.md "一键安装哪吒V0") ！
+本项目不跟随哪吒探针继续升级，为哪吒V0养老版本，关于如何安装哪吒V0，[点击查看一键安装脚本](https://github.com/Xun-X/Nezha-Server-Status?tab=readme-ov-file#%E5%AE%89%E8%A3%85%E5%93%AA%E5%90%92%E6%8E%A2%E9%92%88v0%E7%89%88%E6%9C%AC "一键安装哪吒V0") ！
 
 # 更新历史
 更新版本(v1.6-长期稳定版)：
