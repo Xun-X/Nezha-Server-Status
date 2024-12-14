@@ -4,7 +4,7 @@
 [![Xun-X](https://img.shields.io/static/v1?label=软件特点&message=便携、简易&color=48C21A)](https://github.com/Xun-X/Nezha-Server-Status)
 [![Xun-X](https://img.shields.io/static/v1?label=软件性质&message=免费、非开源&color=1081C2)](https://github.com/Xun-X/Nezha-Server-Status)
 [![Xun-X](https://img.shields.io/static/v1?label=获取方式&message=网盘下载&color=F48041)](https://github.com/Xun-X/Nezha-Server-Status)
-[![Xun-X](https://img.shields.io/static/v1?label=兼容版本&message=哪吒V0&color=F7F720)](https://github.com/Xun-X/Nezha-v0/blob/main/README.md)
+[![Xun-X](https://img.shields.io/static/v1?label=兼容版本&message=哪吒V0.XX&color=F7F720)](https://github.com/Xun-X/Nezha-v0/blob/main/README.md)
 
 Windows上显示一个半透明的飘浮窗，实时监看服务器状态（哪吒监控;哪吒探针）
 
@@ -12,7 +12,7 @@ Windows上显示一个半透明的飘浮窗，实时监看服务器状态（哪�
 
 ##### 让我们一起共建庞大的监控室大爷团队，时刻掌握小鸡状态！
 
-##### 注意：本项目不跟随哪吒更新，仅兼容V0系列版本哪吒，安装V0版本的哪吒探针或面板请下滑有一键安装脚本
+##### 注意：本项目不跟随哪吒更新，仅兼容V0.X版本哪吒，安装V0版本的哪吒探针或面板在底部有【一键脚本】
 
 ##### 效果展示：
 ![](https://raw.githubusercontent.com/Xun-X/Nezha-Server-Status/main/explorer_I6TrVHCDOF.png)
