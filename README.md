@@ -55,7 +55,7 @@ Windows上显示一个半透明的飘浮窗，实时监看服务器状态（哪�
 蓝奏云下载：[https://www.lanzouw.com/ikKnt22j72ha](https://www.lanzouw.com/ikKnt22j72ha "蓝奏云下载")
 
 # 特别说明
-本项目不跟随哪吒探针继续升级，为哪吒V0养老版本，关于如何安装哪吒V0请下滑找到NezhaV0一键安装页！
+本项目不跟随哪吒探针继续升级，为哪吒V0养老版本，关于如何安装哪吒V0，[点击查看一键安装脚本](https://github.com/Xun-X/Nezha-v0/blob/main/README.md "一键安装哪吒V0") ！
 
 # 更新历史
 更新版本(v1.6-长期稳定版)：
@@ -91,7 +91,7 @@ Windows上显示一个半透明的飘浮窗，实时监看服务器状态（哪�
 5、新增主题模式.
 ```
 
-##### 安装哪吒探针V0版本：
+# 安装哪吒探针V0版本：
 1、[Nezha-v0](https://github.com/Xun-X/Nezha-v0/blob/main/README.md "一键安装哪吒V0") 
 
 2、自行google、baidu或Youtube跟随教程安装
