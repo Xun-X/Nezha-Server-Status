@@ -12,6 +12,7 @@ Windows上显示一个半透明的飘浮窗，实时监看服务器状态（哪�
 
 ##### 让我们一起共建庞大的监控室大爷团队，时刻掌握小鸡状态！
 
+##### 注意：本项目不跟随哪吒更新，仅兼容V0系列版本哪吒，安装V0版本的哪吒探针或面板请下滑有一键安装脚本
 
 ##### 效果展示：
 ![](https://raw.githubusercontent.com/Xun-X/Nezha-Server-Status/main/explorer_I6TrVHCDOF.png)
