@@ -55,7 +55,11 @@ Windows上显示一个半透明的飘浮窗，实时监看服务器状态（哪�
 蓝奏云下载：[https://www.lanzouw.com/ikKnt22j72ha](https://www.lanzouw.com/ikKnt22j72ha "蓝奏云下载")
 
 ##### 更新说明：
-更新版本(v1.6-正式版)：
+特别说明：
+
+本项目不跟随哪吒探针继续升级，为哪吒V0养老版本，关于如何安装哪吒V0请下滑找到NezhaV0一键安装页！
+
+更新版本(v1.6-长期稳定版)：
 ```
 1、由于 哪吒监控服务端 0.17.0 版本更新后加入了GPU以及传感器温度等信息，每次请求获取服务器运行状态会取到
 
@@ -88,8 +92,8 @@ Windows上显示一个半透明的飘浮窗，实时监看服务器状态（哪�
 5、新增主题模式.
 ```
 
-##### 关于如何安装哪吒探针面板：
-1、[https://nezha.wiki](https://nezha.wiki/ "哪吒面板") 官网 根据使用文档进行安装
+##### 如何安装哪吒探针V0版本：
+1、[Nezha-v0](https://github.com/Xun-X/Nezha-v0/blob/main/README.md "一键安装哪吒V0") 
 
 2、自行google、baidu或Youtube跟随教程安装
 ```
