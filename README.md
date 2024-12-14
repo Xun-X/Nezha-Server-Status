@@ -89,8 +89,8 @@ Windows上显示一个半透明的飘浮窗，实时监看服务器状态（哪�
 5、新增主题模式.
 ```
 
-# 安装哪吒探针V0.XX版本：
-1、一键安装命令(安装版本:[面板v0.16.26][探针v0.16.11]，改脚本安装的均为官方版本未做任何修改)：
+# 一键部署哪吒探针 V0.XX 版本：
+1、一键安装命令([面板版本v0.16.26] [探针版本v0.16.11]，该脚本安装的均为官方版本未做任何修改)：
 ```shell
 curl -L https://raw.githubusercontent.com/Xun-X/nezha-v0/refs/heads/main/install.sh -o nezha-v0.sh && chmod +x nezha-v0.sh && sudo ./nezha-v0.sh
 ```
