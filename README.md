@@ -86,7 +86,7 @@ Windows上显示一个半透明的飘浮窗，实时监看服务器状态（哪�
 2、降低判断服务器离线的灵敏度;
 3、新增服务器对应的国旗显示;
 4、新增系统托盘小图标;
-5、新增主题模式.
+5、新增主题.
 ```
 
 # 一键部署哪吒探针 V0.XX 版本：
@@ -96,6 +96,8 @@ curl -L https://raw.githubusercontent.com/Xun-X/nezha-v0/refs/heads/main/install
 ```
 
 2、自行google、baidu或Youtube跟随教程安装
+
+# 关于 Nezha-ServerStatus
 ```
 这是发布版本，就不公开源码了(小白也看不懂)非主流语言编写的。再加上做得很粗糙，就不放出来显摆(丟人現眼)了
 
